@@ -2,9 +2,12 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
-
+import json
 # Load your data
-data = pd.read_csv('Credit-Scoring\Credit score on revenue and expenses\your_data.csv')
+# data = pd.read_csv('Credit-Scoring\Credit score on revenue and expenses\your_data.csv')
+with open('Credit-Scoring\Credit score on revenue and expenses\csvjson (1).json', 'r') as f:
+    data_dict = json.load(f)
+data = pd.DataFrame(data_dict)
 data['date'] = pd.to_datetime(data['date'])
 
 # Convert 'date' column to datetime and set as index

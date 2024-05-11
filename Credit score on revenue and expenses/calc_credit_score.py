@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 import joblib
+import json
 
 # Load the trained model
 model = joblib.load('Credit-Scoring\Credit score on revenue and expenses\credit_score_model.pkl')
@@ -10,8 +11,6 @@ model = joblib.load('Credit-Scoring\Credit score on revenue and expenses\credit_
 with open('Credit-Scoring\Credit score on revenue and expenses\csvjson (1).json', 'r') as f:
     data_dict = json.load(f)
 data = pd.DataFrame(data_dict)
-data['date'] = pd.to_datetime(data['date'])
-data['date'] = pd.to_datetime(data['date'])
 data['date'] = pd.to_datetime(data['date'])
 
 # Set 'date' as index and ensure it's datetime
