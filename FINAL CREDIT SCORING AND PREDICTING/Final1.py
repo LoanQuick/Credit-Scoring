@@ -10,8 +10,8 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 
-data1 = pd.read_csv("estadistical.csv")
-data2= pd.read_csv("your_data.csv")
+data1 = pd.read_csv("train_predict_credit.csv")
+data2= pd.read_csv("train_predict_score.csv")
 # # Placeholder to store the trained model1
 model1 = joblib.load('credit_predict_model.pkl')
 model2 = joblib.load('credit_score_model.pkl')
@@ -42,7 +42,7 @@ def train_model_predict_credit():
     # Train the model1
     model1 = LogisticRegression(random_state=0, class_weight='balanced')
     # model1.fit(X, y)
-    model1.fir(X_train, y_train)
+    model1.fit(X_train, y_train)
     y_pred = model1.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
 
@@ -90,7 +90,7 @@ def train_model_predict_score():
     monthly_data['average_daily_expenses'] = data['daily_expenses'].resample('M').mean()
 
     # Load credit scores, ensuring it's only numeric values
-    credit_scores = pd.read_csv('Credit-Scoring\Credit score on revenue and expenses\your_credit_scores.csv')
+    credit_scores = pd.read_csv('train_my_predict_credit_scores.csv')
     credit_scores['date'] = pd.to_datetime(credit_scores['date'])
     credit_scores.set_index('date', inplace=True)
 
@@ -106,11 +106,9 @@ def train_model_predict_score():
     model.fit(X_train, y_train)
 
     joblib.dump(model, 'credit_score_model.pkl')
-    y_pred = model.predict(X_test)
-    accuracy = accuracy_score(y_test, y_pred)
 
     # Return a success message
-    return jsonify({'message': 'Model trained successfully', "accuracy": accuracy}), 200
+    return jsonify({'message': 'Model trained successfully'}), 200
 
 @app.route('/predict_score', methods=['POST'])
 def predict_score():
