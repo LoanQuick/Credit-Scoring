@@ -1,0 +1,907 @@
+[
+  {
+    "date": "2022-01-01",
+    "daily_revenue": 12270,
+    "daily_expenses": 10721
+  },
+  {
+    "date": "2022-01-02",
+    "daily_revenue": 5860,
+    "daily_expenses": 10035
+  },
+  {
+    "date": "2022-01-03",
+    "daily_revenue": 10390,
+    "daily_expenses": 4484
+  },
+  {
+    "date": "2022-01-04",
+    "daily_revenue": 18418,
+    "daily_expenses": 10858
+  },
+  {
+    "date": "2022-01-05",
+    "daily_revenue": 10191,
+    "daily_expenses": 3863
+  },
+  {
+    "date": "2022-01-06",
+    "daily_revenue": 16964,
+    "daily_expenses": 5790
+  },
+  {
+    "date": "2022-01-07",
+    "daily_revenue": 16284,
+    "daily_expenses": 10408
+  },
+  {
+    "date": "2022-01-08",
+    "daily_revenue": 10734,
+    "daily_expenses": 11755
+  },
+  {
+    "date": "2022-01-09",
+    "daily_revenue": 11265,
+    "daily_expenses": 8116
+  },
+  {
+    "date": "2022-01-10",
+    "daily_revenue": 5466,
+    "daily_expenses": 9019
+  },
+  {
+    "date": "2022-01-11",
+    "daily_revenue": 18526,
+    "daily_expenses": 4757
+  },
+  {
+    "date": "2022-01-12",
+    "daily_revenue": 9426,
+    "daily_expenses": 10574
+  },
+  {
+    "date": "2022-01-13",
+    "daily_revenue": 10578,
+    "daily_expenses": 9374
+  },
+  {
+    "date": "2022-01-14",
+    "daily_revenue": 19423,
+    "daily_expenses": 9892
+  },
+  {
+    "date": "2022-01-15",
+    "daily_revenue": 16636,
+    "daily_expenses": 4678
+  },
+  {
+    "date": "2022-01-16",
+    "daily_revenue": 16363,
+    "daily_expenses": 6242
+  },
+  {
+    "date": "2022-01-17",
+    "daily_revenue": 16111,
+    "daily_expenses": 7636
+  },
+  {
+    "date": "2022-01-18",
+    "daily_revenue": 13322,
+    "daily_expenses": 4059
+  },
+  {
+    "date": "2022-01-19",
+    "daily_revenue": 6685,
+    "daily_expenses": 9668
+  },
+  {
+    "date": "2022-01-20",
+    "daily_revenue": 5769,
+    "daily_expenses": 12914
+  },
+  {
+    "date": "2022-01-21",
+    "daily_revenue": 15583,
+    "daily_expenses": 14506
+  },
+  {
+    "date": "2022-01-22",
+    "daily_revenue": 18803,
+    "daily_expenses": 6157
+  },
+  {
+    "date": "2022-01-23",
+    "daily_revenue": 11949,
+    "daily_expenses": 8915
+  },
+  {
+    "date": "2022-01-24",
+    "daily_revenue": 7433,
+    "daily_expenses": 13817
+  },
+  {
+    "date": "2022-01-25",
+    "daily_revenue": 10311,
+    "daily_expenses": 13921
+  },
+  {
+    "date": "2022-01-26",
+    "daily_revenue": 10051,
+    "daily_expenses": 12789
+  },
+  {
+    "date": "2022-01-27",
+    "daily_revenue": 11420,
+    "daily_expenses": 14252
+  },
+  {
+    "date": "2022-01-28",
+    "daily_revenue": 6184,
+    "daily_expenses": 5693
+  },
+  {
+    "date": "2022-01-29",
+    "daily_revenue": 9555,
+    "daily_expenses": 6627
+  },
+  {
+    "date": "2022-01-30",
+    "daily_revenue": 8385,
+    "daily_expenses": 12555
+  },
+  {
+    "date": "2022-01-31",
+    "daily_revenue": 17309,
+    "daily_expenses": 13173
+  },
+  {
+    "date": "2022-02-01",
+    "daily_revenue": 11396,
+    "daily_expenses": 8450
+  },
+  {
+    "date": "2022-02-02",
+    "daily_revenue": 18035,
+    "daily_expenses": 4663
+  },
+  {
+    "date": "2022-02-03",
+    "daily_revenue": 16096,
+    "daily_expenses": 12721
+  },
+  {
+    "date": "2022-02-04",
+    "daily_revenue": 13666,
+    "daily_expenses": 13230
+  },
+  {
+    "date": "2022-02-05",
+    "daily_revenue": 14274,
+    "daily_expenses": 8592
+  },
+  {
+    "date": "2022-02-06",
+    "daily_revenue": 7558,
+    "daily_expenses": 14494
+  },
+  {
+    "date": "2022-02-07",
+    "daily_revenue": 12849,
+    "daily_expenses": 13429
+  },
+  {
+    "date": "2022-02-08",
+    "daily_revenue": 7047,
+    "daily_expenses": 10392
+  },
+  {
+    "date": "2022-02-09",
+    "daily_revenue": 7747,
+    "daily_expenses": 4306
+  },
+  {
+    "date": "2022-02-10",
+    "daily_revenue": 14167,
+    "daily_expenses": 9776
+  },
+  {
+    "date": "2022-02-11",
+    "daily_revenue": 14998,
+    "daily_expenses": 13867
+  },
+  {
+    "date": "2022-02-12",
+    "daily_revenue": 5189,
+    "daily_expenses": 8864
+  },
+  {
+    "date": "2022-02-13",
+    "daily_revenue": 7734,
+    "daily_expenses": 12474
+  },
+  {
+    "date": "2022-02-14",
+    "daily_revenue": 8005,
+    "daily_expenses": 10526
+  },
+  {
+    "date": "2022-02-15",
+    "daily_revenue": 9658,
+    "daily_expenses": 11901
+  },
+  {
+    "date": "2022-02-16",
+    "daily_revenue": 6899,
+    "daily_expenses": 8575
+  },
+  {
+    "date": "2022-02-17",
+    "daily_revenue": 12734,
+    "daily_expenses": 8530
+  },
+  {
+    "date": "2022-02-18",
+    "daily_revenue": 6267,
+    "daily_expenses": 7413
+  },
+  {
+    "date": "2022-02-19",
+    "daily_revenue": 6528,
+    "daily_expenses": 6748
+  },
+  {
+    "date": "2022-02-20",
+    "daily_revenue": 16394,
+    "daily_expenses": 3663
+  },
+  {
+    "date": "2022-02-21",
+    "daily_revenue": 8556,
+    "daily_expenses": 4998
+  },
+  {
+    "date": "2022-02-22",
+    "daily_revenue": 8890,
+    "daily_expenses": 10994
+  },
+  {
+    "date": "2022-02-23",
+    "daily_revenue": 13838,
+    "daily_expenses": 14637
+  },
+  {
+    "date": "2022-02-24",
+    "daily_revenue": 19356,
+    "daily_expenses": 14935
+  },
+  {
+    "date": "2022-02-25",
+    "daily_revenue": 16080,
+    "daily_expenses": 4495
+  },
+  {
+    "date": "2022-02-26",
+    "daily_revenue": 19502,
+    "daily_expenses": 6304
+  },
+  {
+    "date": "2022-02-27",
+    "daily_revenue": 10393,
+    "daily_expenses": 6763
+  },
+  {
+    "date": "2022-02-28",
+    "daily_revenue": 15627,
+    "daily_expenses": 8232
+  },
+  {
+    "date": "2022-03-01",
+    "daily_revenue": 13792,
+    "daily_expenses": 4853
+  },
+  {
+    "date": "2022-03-02",
+    "daily_revenue": 15555,
+    "daily_expenses": 9585
+  },
+  {
+    "date": "2022-03-03",
+    "daily_revenue": 15253,
+    "daily_expenses": 4291
+  },
+  {
+    "date": "2022-03-04",
+    "daily_revenue": 13433,
+    "daily_expenses": 6581
+  },
+  {
+    "date": "2022-03-05",
+    "daily_revenue": 15233,
+    "daily_expenses": 14649
+  },
+  {
+    "date": "2022-03-06",
+    "daily_revenue": 16016,
+    "daily_expenses": 10554
+  },
+  {
+    "date": "2022-03-07",
+    "daily_revenue": 12513,
+    "daily_expenses": 10280
+  },
+  {
+    "date": "2022-03-08",
+    "daily_revenue": 7612,
+    "daily_expenses": 4636
+  },
+  {
+    "date": "2022-03-09",
+    "daily_revenue": 12041,
+    "daily_expenses": 6696
+  },
+  {
+    "date": "2022-03-10",
+    "daily_revenue": 14555,
+    "daily_expenses": 14191
+  },
+  {
+    "date": "2022-03-11",
+    "daily_revenue": 11235,
+    "daily_expenses": 14344
+  },
+  {
+    "date": "2022-03-12",
+    "daily_revenue": 10486,
+    "daily_expenses": 3698
+  },
+  {
+    "date": "2022-03-13",
+    "daily_revenue": 12099,
+    "daily_expenses": 13352
+  },
+  {
+    "date": "2022-03-14",
+    "daily_revenue": 14670,
+    "daily_expenses": 7737
+  },
+  {
+    "date": "2022-03-15",
+    "daily_revenue": 15748,
+    "daily_expenses": 3854
+  },
+  {
+    "date": "2022-03-16",
+    "daily_revenue": 5775,
+    "daily_expenses": 11164
+  },
+  {
+    "date": "2022-03-17",
+    "daily_revenue": 17206,
+    "daily_expenses": 8855
+  },
+  {
+    "date": "2022-03-18",
+    "daily_revenue": 13226,
+    "daily_expenses": 10392
+  },
+  {
+    "date": "2022-03-19",
+    "daily_revenue": 19541,
+    "daily_expenses": 9528
+  },
+  {
+    "date": "2022-03-20",
+    "daily_revenue": 8152,
+    "daily_expenses": 14666
+  },
+  {
+    "date": "2022-03-21",
+    "daily_revenue": 15147,
+    "daily_expenses": 8249
+  },
+  {
+    "date": "2022-03-22",
+    "daily_revenue": 6585,
+    "daily_expenses": 8172
+  },
+  {
+    "date": "2022-03-23",
+    "daily_revenue": 8943,
+    "daily_expenses": 4707
+  },
+  {
+    "date": "2022-03-24",
+    "daily_revenue": 12555,
+    "daily_expenses": 13969
+  },
+  {
+    "date": "2022-03-25",
+    "daily_revenue": 8073,
+    "daily_expenses": 8791
+  },
+  {
+    "date": "2022-03-26",
+    "daily_revenue": 6021,
+    "daily_expenses": 12925
+  },
+  {
+    "date": "2022-03-27",
+    "daily_revenue": 16653,
+    "daily_expenses": 8535
+  },
+  {
+    "date": "2022-03-28",
+    "daily_revenue": 15805,
+    "daily_expenses": 7931
+  },
+  {
+    "date": "2022-03-29",
+    "daily_revenue": 18417,
+    "daily_expenses": 6510
+  },
+  {
+    "date": "2022-03-30",
+    "daily_revenue": 8843,
+    "daily_expenses": 3202
+  },
+  {
+    "date": "2022-03-31",
+    "daily_revenue": 12989,
+    "daily_expenses": 14447
+  },
+  {
+    "date": "2022-04-01",
+    "daily_revenue": 14692,
+    "daily_expenses": 7218
+  },
+  {
+    "date": "2022-04-02",
+    "daily_revenue": 17990,
+    "daily_expenses": 11958
+  },
+  {
+    "date": "2022-04-03",
+    "daily_revenue": 19737,
+    "daily_expenses": 7389
+  },
+  {
+    "date": "2022-04-04",
+    "daily_revenue": 11873,
+    "daily_expenses": 5327
+  },
+  {
+    "date": "2022-04-05",
+    "daily_revenue": 10675,
+    "daily_expenses": 11004
+  },
+  {
+    "date": "2022-04-06",
+    "daily_revenue": 5161,
+    "daily_expenses": 5931
+  },
+  {
+    "date": "2022-04-07",
+    "daily_revenue": 9297,
+    "daily_expenses": 10777
+  },
+  {
+    "date": "2022-04-08",
+    "daily_revenue": 15173,
+    "daily_expenses": 3197
+  },
+  {
+    "date": "2022-04-09",
+    "daily_revenue": 5995,
+    "daily_expenses": 10125
+  },
+  {
+    "date": "2022-04-10",
+    "daily_revenue": 19605,
+    "daily_expenses": 4930
+  },
+  {
+    "date": "2022-04-11",
+    "daily_revenue": 18103,
+    "daily_expenses": 14774
+  },
+  {
+    "date": "2022-04-12",
+    "daily_revenue": 16534,
+    "daily_expenses": 9287
+  },
+  {
+    "date": "2022-04-13",
+    "daily_revenue": 17743,
+    "daily_expenses": 11800
+  },
+  {
+    "date": "2022-04-14",
+    "daily_revenue": 12629,
+    "daily_expenses": 14464
+  },
+  {
+    "date": "2022-04-15",
+    "daily_revenue": 16990,
+    "daily_expenses": 12339
+  },
+  {
+    "date": "2022-04-16",
+    "daily_revenue": 14467,
+    "daily_expenses": 7282
+  },
+  {
+    "date": "2022-04-17",
+    "daily_revenue": 6016,
+    "daily_expenses": 14589
+  },
+  {
+    "date": "2022-04-18",
+    "daily_revenue": 12869,
+    "daily_expenses": 5511
+  },
+  {
+    "date": "2022-04-19",
+    "daily_revenue": 11439,
+    "daily_expenses": 12986
+  },
+  {
+    "date": "2022-04-20",
+    "daily_revenue": 12892,
+    "daily_expenses": 3659
+  },
+  {
+    "date": "2022-04-21",
+    "daily_revenue": 11863,
+    "daily_expenses": 5811
+  },
+  {
+    "date": "2022-04-22",
+    "daily_revenue": 12916,
+    "daily_expenses": 10098
+  },
+  {
+    "date": "2022-04-23",
+    "daily_revenue": 13529,
+    "daily_expenses": 9546
+  },
+  {
+    "date": "2022-04-24",
+    "daily_revenue": 5878,
+    "daily_expenses": 12561
+  },
+  {
+    "date": "2022-04-25",
+    "daily_revenue": 14268,
+    "daily_expenses": 4986
+  },
+  {
+    "date": "2022-04-26",
+    "daily_revenue": 9887,
+    "daily_expenses": 11338
+  },
+  {
+    "date": "2022-04-27",
+    "daily_revenue": 17185,
+    "daily_expenses": 14411
+  },
+  {
+    "date": "2022-04-28",
+    "daily_revenue": 19552,
+    "daily_expenses": 5911
+  },
+  {
+    "date": "2022-04-29",
+    "daily_revenue": 9859,
+    "daily_expenses": 4734
+  },
+  {
+    "date": "2022-04-30",
+    "daily_revenue": 11331,
+    "daily_expenses": 4843
+  },
+  {
+    "date": "2022-05-01",
+    "daily_revenue": 13571,
+    "daily_expenses": 11680
+  },
+  {
+    "date": "2022-05-02",
+    "daily_revenue": 13684,
+    "daily_expenses": 5976
+  },
+  {
+    "date": "2022-05-03",
+    "daily_revenue": 12208,
+    "daily_expenses": 4959
+  },
+  {
+    "date": "2022-05-04",
+    "daily_revenue": 10276,
+    "daily_expenses": 8759
+  },
+  {
+    "date": "2022-05-05",
+    "daily_revenue": 7062,
+    "daily_expenses": 9694
+  },
+  {
+    "date": "2022-05-06",
+    "daily_revenue": 17076,
+    "daily_expenses": 5385
+  },
+  {
+    "date": "2022-05-07",
+    "daily_revenue": 5064,
+    "daily_expenses": 14111
+  },
+  {
+    "date": "2022-05-08",
+    "daily_revenue": 13006,
+    "daily_expenses": 7736
+  },
+  {
+    "date": "2022-05-09",
+    "daily_revenue": 7568,
+    "daily_expenses": 4802
+  },
+  {
+    "date": "2022-05-10",
+    "daily_revenue": 10463,
+    "daily_expenses": 11155
+  },
+  {
+    "date": "2022-05-11",
+    "daily_revenue": 18440,
+    "daily_expenses": 11120
+  },
+  {
+    "date": "2022-05-12",
+    "daily_revenue": 7027,
+    "daily_expenses": 9616
+  },
+  {
+    "date": "2022-05-13",
+    "daily_revenue": 7695,
+    "daily_expenses": 8534
+  },
+  {
+    "date": "2022-05-14",
+    "daily_revenue": 14687,
+    "daily_expenses": 7061
+  },
+  {
+    "date": "2022-05-15",
+    "daily_revenue": 10258,
+    "daily_expenses": 14561
+  },
+  {
+    "date": "2022-05-16",
+    "daily_revenue": 10618,
+    "daily_expenses": 3262
+  },
+  {
+    "date": "2022-05-17",
+    "daily_revenue": 11736,
+    "daily_expenses": 9287
+  },
+  {
+    "date": "2022-05-18",
+    "daily_revenue": 5391,
+    "daily_expenses": 11815
+  },
+  {
+    "date": "2022-05-19",
+    "daily_revenue": 18986,
+    "daily_expenses": 12208
+  },
+  {
+    "date": "2022-05-20",
+    "daily_revenue": 17706,
+    "daily_expenses": 14835
+  },
+  {
+    "date": "2022-05-21",
+    "daily_revenue": 19624,
+    "daily_expenses": 5049
+  },
+  {
+    "date": "2022-05-22",
+    "daily_revenue": 17666,
+    "daily_expenses": 8423
+  },
+  {
+    "date": "2022-05-23",
+    "daily_revenue": 10892,
+    "daily_expenses": 14915
+  },
+  {
+    "date": "2022-05-24",
+    "daily_revenue": 8561,
+    "daily_expenses": 7548
+  },
+  {
+    "date": "2022-05-25",
+    "daily_revenue": 15470,
+    "daily_expenses": 6108
+  },
+  {
+    "date": "2022-05-26",
+    "daily_revenue": 11184,
+    "daily_expenses": 10158
+  },
+  {
+    "date": "2022-05-27",
+    "daily_revenue": 8099,
+    "daily_expenses": 13248
+  },
+  {
+    "date": "2022-05-28",
+    "daily_revenue": 11278,
+    "daily_expenses": 10400
+  },
+  {
+    "date": "2022-05-29",
+    "daily_revenue": 13392,
+    "daily_expenses": 6170
+  },
+  {
+    "date": "2022-05-30",
+    "daily_revenue": 19151,
+    "daily_expenses": 12874
+  },
+  {
+    "date": "2022-05-31",
+    "daily_revenue": 18067,
+    "daily_expenses": 5255
+  },
+  {
+    "date": "2022-06-01",
+    "daily_revenue": 8104,
+    "daily_expenses": 4154
+  },
+  {
+    "date": "2022-06-02",
+    "daily_revenue": 12215,
+    "daily_expenses": 7499
+  },
+  {
+    "date": "2022-06-03",
+    "daily_revenue": 17790,
+    "daily_expenses": 9295
+  },
+  {
+    "date": "2022-06-04",
+    "daily_revenue": 7454,
+    "daily_expenses": 9197
+  },
+  {
+    "date": "2022-06-05",
+    "daily_revenue": 16837,
+    "daily_expenses": 14383
+  },
+  {
+    "date": "2022-06-06",
+    "daily_revenue": 19039,
+    "daily_expenses": 12888
+  },
+  {
+    "date": "2022-06-07",
+    "daily_revenue": 13996,
+    "daily_expenses": 4648
+  },
+  {
+    "date": "2022-06-08",
+    "daily_revenue": 19434,
+    "daily_expenses": 8539
+  },
+  {
+    "date": "2022-06-09",
+    "daily_revenue": 7731,
+    "daily_expenses": 12637
+  },
+  {
+    "date": "2022-06-10",
+    "daily_revenue": 19183,
+    "daily_expenses": 7199
+  },
+  {
+    "date": "2022-06-11",
+    "daily_revenue": 15965,
+    "daily_expenses": 11445
+  },
+  {
+    "date": "2022-06-12",
+    "daily_revenue": 13154,
+    "daily_expenses": 14375
+  },
+  {
+    "date": "2022-06-13",
+    "daily_revenue": 14762,
+    "daily_expenses": 5557
+  },
+  {
+    "date": "2022-06-14",
+    "daily_revenue": 10056,
+    "daily_expenses": 8592
+  },
+  {
+    "date": "2022-06-15",
+    "daily_revenue": 19948,
+    "daily_expenses": 3098
+  },
+  {
+    "date": "2022-06-16",
+    "daily_revenue": 13110,
+    "daily_expenses": 5200
+  },
+  {
+    "date": "2022-06-17",
+    "daily_revenue": 18773,
+    "daily_expenses": 5961
+  },
+  {
+    "date": "2022-06-18",
+    "daily_revenue": 15882,
+    "daily_expenses": 7973
+  },
+  {
+    "date": "2022-06-19",
+    "daily_revenue": 8840,
+    "daily_expenses": 7433
+  },
+  {
+    "date": "2022-06-20",
+    "daily_revenue": 6028,
+    "daily_expenses": 14969
+  },
+  {
+    "date": "2022-06-21",
+    "daily_revenue": 12385,
+    "daily_expenses": 5869
+  },
+  {
+    "date": "2022-06-22",
+    "daily_revenue": 5502,
+    "daily_expenses": 14426
+  },
+  {
+    "date": "2022-06-23",
+    "daily_revenue": 11910,
+    "daily_expenses": 14983
+  },
+  {
+    "date": "2022-06-24",
+    "daily_revenue": 17685,
+    "daily_expenses": 3956
+  },
+  {
+    "date": "2022-06-25",
+    "daily_revenue": 14062,
+    "daily_expenses": 11352
+  },
+  {
+    "date": "2022-06-26",
+    "daily_revenue": 11938,
+    "daily_expenses": 8699
+  },
+  {
+    "date": "2022-06-27",
+    "daily_revenue": 9488,
+    "daily_expenses": 9944
+  },
+  {
+    "date": "2022-06-28",
+    "daily_revenue": 5206,
+    "daily_expenses": 7493
+  },
+  {
+    "date": "2022-06-29",
+    "daily_revenue": 10134,
+    "daily_expenses": 12492
+  },
+  {
+    "date": "2022-06-30",
+    "daily_revenue": 10977,
+    "daily_expenses": 7911
+  }
+]
