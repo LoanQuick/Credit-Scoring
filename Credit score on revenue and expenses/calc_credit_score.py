@@ -6,7 +6,12 @@ import joblib
 model = joblib.load('Credit-Scoring\Credit score on revenue and expenses\credit_score_model.pkl')
 
 # Load the input data
-data = pd.read_csv('Credit-Scoring\Credit score on revenue and expenses\your_data.csv')
+# data = pd.read_csv('Credit-Scoring\Credit score on revenue and expenses\your_data.csv')
+with open('Credit-Scoring\Credit score on revenue and expenses\csvjson (1).json', 'r') as f:
+    data_dict = json.load(f)
+data = pd.DataFrame(data_dict)
+data['date'] = pd.to_datetime(data['date'])
+data['date'] = pd.to_datetime(data['date'])
 data['date'] = pd.to_datetime(data['date'])
 
 # Set 'date' as index and ensure it's datetime
