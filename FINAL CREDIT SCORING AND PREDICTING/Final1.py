@@ -11,6 +11,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 from sklearn.linear_model import LinearRegression
 from dateutil.relativedelta import relativedelta
+from sklearn.neighbors import KNeighborsClassifier
 
 data1 = pd.read_csv("train_predict_credit.csv")
 data2= pd.read_csv("train_predict_score.csv")
@@ -42,7 +43,7 @@ def train_model_predict_credit():
     joblib.dump(encoders, 'credit_predict_model.pkl')
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, stratify=y)
     # Train the model1
-    model1 = LogisticRegression(random_state=0, class_weight='balanced')
+    model1 = KNeighborsClassifier(n_neighbors=10)
     # model1.fit(X, y)
     model1.fit(X_train, y_train)
     y_pred = model1.predict(X_test)
